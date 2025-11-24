@@ -1,0 +1,6 @@
+- Radial menu (ox_lib)
+- exports -> niet nodig gebruik player.get('') van ox_core
+- Snelle items pakken
+- Bridge functies zodat werkt met ox en qb -> Kleine basis bridge, de rest niet perse nodig voor dit script
+- bossmenu (grades en groups aanpassen, inventory openen, kleding kast openen)
+- Configuren voor ox_target en sleepless_interact
