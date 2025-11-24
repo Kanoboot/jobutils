@@ -7,3 +7,7 @@ Also will add locales because everything is in dutch now
 Script shows a bridge example and explains some things about how to use ox_core 
 
 There is a shared config for debugging and bridging. And there is a client sided and server sided config, for this script it doesn't really matter how you config your stuff, just know that server sided cofigs can't be dumped and therefor are a bit "safer". 
+
+Right now is has the following functions:
+- Duty toggle (this is handled through the player.get functions)
+- Salary function (this is self explanatory in the script)
